@@ -7,6 +7,7 @@ export const getLibros = async () => {
         const { data } = await axios.get(`${URL_BASE}/`);
         return data;
     } catch (error) {
-        console.log(error);
+        console.log('Error, algo paso')
+        return [];
     }
 }

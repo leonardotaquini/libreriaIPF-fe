@@ -12,7 +12,7 @@ export const Libros = () => {
   }
 
   useEffect(() => {
-    getLibrosDb()
+    getLibrosDb();
   }, [])
   
   return (

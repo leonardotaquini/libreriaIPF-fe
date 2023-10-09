@@ -6,7 +6,7 @@ export const Libro = ({ libro }) => {
     <div className='card col-12 col-sm-4 col-lg-2 m-3 card-model'>
       <div className='img-container'>
 
-        <img src={portada} className='imagen'/>
+        <img src='C:\\Users\\leo_t\\OneDrive\\Documentos\\tlp\\libreria\\backend\\libreriaIPF\\src/images/Captura de pantalla 2023-08-15 120510.png' className='imagen'/>
       </div>
 
       <div className='card-body'>
