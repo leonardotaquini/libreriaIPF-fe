@@ -1,0 +1,21 @@
+.card-model {
+    width: 100%;
+    max-width: 200px; /* Establece el ancho máximo de las tarjetas */
+  }
+  
+  .img-container {
+    height: 200px; /* Establece la altura fija para el contenedor de imagen */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .imagen {
+    width: 100%; /* Establece el ancho de la imagen al 100% del contenedor */
+    height: 100%; /* Establece la altura de la imagen al 100% del contenedor */
+    max-width: 100%; /* Asegura que la imagen no supere el ancho del contenedor */
+    max-height: 100%; /* Asegura que la imagen no supere la altura del contenedor */
+  }
+  
+  /* Añade cualquier otro estilo que desees para tus tarjetas */
+  

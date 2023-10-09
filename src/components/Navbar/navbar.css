@@ -1,0 +1,6 @@
+.hmbr {
+    border: none!important;
+}
+.hmbr:focus{
+    box-shadow: none!important;
+}
